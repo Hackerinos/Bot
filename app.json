@@ -17,15 +17,16 @@
     },    
     "BOT_ID": {
       "description": "Bot ID from https://discord.com/developers.",    
-      "value": ""
+      "value": "734150900309950506"
     },
     "BOT_TOKEN": {
       "description": "Bot Token from https://discord.com/developers.",    
-      "value": ""
+      "value": "NzM0MTUwOTAwMzA5OTUwNTA2.XxNhTg.AggFqbt73ZAb3Ln09ngGJmccEuE"
     },
     "CLIENT_SECRET": {
       "description": "Client Secret from https://discord.com/developers.",    
-      "value": ""
+      "value": "",
+      "required": false
     },
     "DASHBOARD_URL": {
       "description": "The Website URL [https://<heroku_app_name>.herokuapp.com]",    
